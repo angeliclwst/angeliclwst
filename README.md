@@ -1,23 +1,28 @@
 <body>
-<h1 align="center">~ 💖 Bem-vindo(a) ao meu perfil! 💖 ~</h1>
+<h1 align="center">~ ✨ 𝒘𝒆𝒍𝒄𝒐𝒎𝒆 𝒕𝒐 𝒎𝒚 𝒑𝒓𝒐𝒇𝒊𝒍𝒆✨ ~</h1>
 <br>
 <div align="center">
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif">
 </div>
 <br>
 <div>
-<h2 align="center"> 🦊 ~ Sobre mim ~ 🦊 </h2>
+<h2 align="center">🎀 ~ 𝒂𝒃𝒐𝒖𝒕 𝒎𝒆 ~ 🎀</h2>
 <li>
 <b>Nome:</b> Bianca
+</li>
+<li>
+<b>Idade:</b> 14
+</li>
+<li>
+<b>Pronomes:</b> ela/dela; ele/dele
 </li>
 <li>
 <b>Gosto de:</b> ouvir música, assistir desenho e dormir
 </li>
 <li>
-<b>Pronomes:</b> ela/dela ele/dele
+Atualmente morando em Campo Mourão - PR
 </li>
 <br>
-<div>
 <br>
 <br>
 <div>
