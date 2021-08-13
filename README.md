@@ -17,11 +17,6 @@
 <br>
 <div>
 <br>
-<h2>           📝 ~ Minhas redes sociais ~ 📝</h2>
-<img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
-<br>
-<p align="center">Algumas das minhas redes sociais que eu mais uso::</p>
-<p align="center"><a href="www.instagram.com/angeliclwst"
 <br>
 <div>
 <h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
