@@ -8,10 +8,7 @@
 <div>
 <h2 align="center">🎀 ~ 𝒂𝒃𝒐𝒖𝒕 𝒎𝒆 ~ 🎀</h2>
 <li>
-<div>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9XhdzQGfKGGYcr-1QwBkldziSpg199mccNaUgHwhsIhR0SBwQnFJHFSm_TFKSKClEcV0&usqp=CAU">
 <b>Nome:</b> Bianca
-</div>
 </li>
 <li>
 <b>Idade:</b> 14
