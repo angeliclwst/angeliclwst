@@ -27,6 +27,9 @@ Atualmente morando em Campo Mourão - PR
 <br>
 <div>
 <h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
+<div align="center">
+<img src="https://i.pinimg.com/originals/69/89/ea/6989ea6e5b98ad3ca14157ec3a4e5834.gif">
+</div>
 <hr>
 </div>
 </body>
