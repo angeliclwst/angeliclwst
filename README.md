@@ -8,7 +8,9 @@
 <div>
 <h2 align="center">🎀 ~ 𝒂𝒃𝒐𝒖𝒕 𝒎𝒆 ~ 🎀</h2>
 <li>
-<b>Nome:</b> Bianca
+<div>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9XhdzQGfKGGYcr-1QwBkldziSpg199mccNaUgHwhsIhR0SBwQnFJHFSm_TFKSKClEcV0&usqp=CAU">
+</div><b>Nome:</b> Bianca
 </li>
 <li>
 <b>Idade:</b> 14
@@ -22,8 +24,6 @@
 <li>
 Atualmente morando em Campo Mourão - PR
 </li>
-<br>
-<br>
 <br>
 <div>
 <h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
