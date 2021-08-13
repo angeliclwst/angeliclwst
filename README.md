@@ -7,7 +7,9 @@
 <br>
 <div>
 <h2 align="center"> 🦊 ~ Sobre mim ~ 🦊 </h2>
-<b>Nome:</b> Bianca</li>
+<li>
+<b>Nome:</b> Bianca
+</li>
 <li>
 <b>Gosto de:</b> ouvir música, assistir desenho e dormir
 </li>
