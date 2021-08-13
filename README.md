@@ -17,7 +17,7 @@
 <b>Pronomes:</b> ela/dela; ele/dele
 </li>
 <li>
-<b>Gosto de:</b> ouvir música, assistir desenho e dormir
+<b>Gosto de:</b> ouvir música e assistir desenho
 </li>
 <li>
 Atualmente morando em Campo Mourão - PR
@@ -28,7 +28,7 @@ Atualmente morando em Campo Mourão - PR
 <div>
 <h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
 <div align="center">
-<img src="https://i.pinimg.com/originals/69/89/ea/6989ea6e5b98ad3ca14157ec3a4e5834.gif">
+<img src="https://fc04.deviantart.net/fs71/f/2013/317/e/9/cinnamoroll_gif_by_minniekawaiitutos-d6q2jw9.gif">
 </div>
 <hr>
 </div>
