@@ -21,8 +21,6 @@
 <div>
 <h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
 <hr>
-<div>
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=angeliclwst+&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+[![angeliclwst's GitHub stats](https://github-readme-stats.vercel.app/api?username=angeliclwst&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 </body>
